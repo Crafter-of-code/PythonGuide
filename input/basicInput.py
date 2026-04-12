@@ -1,0 +1,5 @@
+print("basic input")
+a = input("Give me value of a")
+b = input("give me value of b")
+print("value of a",a)
+print("vlaue of b",b)
